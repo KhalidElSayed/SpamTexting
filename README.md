@@ -1,5 +1,4 @@
-Spam Texting App
-===================
+# Spam Texting App [![Build Status](https://travis-ci.org/jaredsburrows/SpamTexting.png)](https://travis-ci.org/jaredsburrows/SpamTexting)
 
 Android application that that allows you to spam a single number.
  - Specify number
